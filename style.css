@@ -1,0 +1,101 @@
+body{
+    background-color: #FFFFFF;
+}
+
+
+.container{
+    margin-top: 30px;
+    /* background-color: blue; */
+}
+
+ul li{
+    float: left;
+    padding: 15px;
+    position: relative;
+    left: 180px;
+    bottom: 60px; 
+    font-size: 14px;
+}
+
+
+ul{
+    list-style: none;
+}
+
+.button-group{
+    float: right;
+    position: relative;
+    bottom: 50px;
+    right: 145px;
+     
+    
+}
+
+.nav-button{
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    font-size: 14px;
+    background-color: #5955B3;
+    color: #FFFFFF;
+    border-style: none;
+
+}
+ 
+.logo{
+        /* background-color: aqua; */
+        position: relative;
+        left: 110px;
+        bottom: 5px;
+         height: 25px;
+    }
+     
+.col-6{
+    position: relative;
+    top: 60px;
+    right: 300px;
+     
+}
+
+.col-5{
+    width: 50%;
+}
+.crush{
+    color: #5955B3;
+
+}
+ 
+.col-5 img{
+    /* background-color: aqua; */
+    height: auto;
+    width: 600px;
+    position: relative;
+    right: 270px;
+    top: 20px;
+
+
+}
+
+h1{
+    font-weight:bolder;
+}
+
+.description{
+    font-size: 13px;
+    position: relative;
+    top: 20px;
+}
+
+#button-service{
+    height: 40px;
+    width: 150px;
+    background-color: #5955B3;
+    color: white;
+    font-size: 13px;
+    position: relative;
+    top: 70px;
+}
+element.style {
+    /* height: 30px; */
+     
+}
